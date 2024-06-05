@@ -1,0 +1,29 @@
+body {
+    background-color:black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container {
+    background-color: white;
+    width: 400px;
+    height: 600px;
+}
+.post-image img {
+    width: 375px;
+    height: 400px;
+}
+.post-header {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 15px;
+}
+.posts {
+    background-color: white;
+}
+.post {
+    padding: 10px;
+}
+h1 {
+    text-align: center;
+}
